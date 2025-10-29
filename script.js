@@ -52,7 +52,6 @@ var w = c.width = window.innerWidth,
 		
 		Tau = Math.PI * 2,
 		TauQuarter = Tau / 4,
-		
 		letters = [];
 
 ctx.font = opts.charSize + 'px Verdana';
